@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafasuzuki
 - 👀 I’m interested in Programing and Data Science
-- 🌱 I’m currently learning DataScience and DataMining
+- 🌱 I’m currently learning DataScience 
 - 📫 How to reach me ... on Instagram @rafasuzuki_ 
 
 <!---
