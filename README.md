@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafasuzuki
-- 👀 I’m interested in Programing and Data Science
-- 🌱 I’m currently learning DataScience 
+- 👀 I’m interested in Programing
+- 🌱 I’m currently focusing in Golang
 - 📫 How to reach me ... on Instagram @rafasuzuki_ 
 
 <!---
